@@ -15,7 +15,7 @@ actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of 
 global.headerText = "Anya by Pika" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
-             global.ownernumber = ['918811074852']   // Owner number //
+             global.ownernumber = ['916201114061']   // Owner number //
              global.vcardowner = ['918811074852']   // vcard owner number //
              global.ownername = "3.69_Pika"   // Owner name //
              global.ytname = "YT: ONYXPIKA"   // Yt chanel name //
